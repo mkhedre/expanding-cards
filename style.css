@@ -9,6 +9,7 @@
 body {
   font-family: sans-serif;
 }
+/* style container */
 .container {
   display: flex;
   height: 100vh;
